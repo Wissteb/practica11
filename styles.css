@@ -1,3 +1,30 @@
 form{
     
 }
+.trat{
+    position: absolute;
+}
+.fondotabla{
+    border-collapse: "collapse" ;
+   
+    background-clip: border-box;
+  
+}
+.pais { background-color: rgba(197, 197, 197, 0.295);
+   
+}
+select {
+    width:160px ;
+    font-size: 90%;
+    height: 25px;
+}
+.textfin{
+    font-size: 100%;
+    color: gray;
+}
+.fondotabla2{
+background-color:  rgba(197, 197, 197, 0.329);
+}
+.continuar {
+    float: right;
+}
